@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MoPhong\MoPhong\bin\Debug\MoPhong.exe.config
+C:\Users\User\Desktop\MoPhong\MoPhong\bin\Debug\MoPhong.exe
+C:\Users\User\Desktop\MoPhong\MoPhong\bin\Debug\MoPhong.pdb
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.Properties.Resources.resources
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.exe
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.pdb
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.FiFo.resources
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.MoPhong_Nhom5.resources
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.Clock.resources
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.DemoToiUu.resources
+C:\Users\User\Desktop\MoPhong\MoPhong\obj\Debug\MoPhong.LRU_Stack.resources
